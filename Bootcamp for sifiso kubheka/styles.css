@@ -1,0 +1,23 @@
+.iconImg{
+    width: 100px;
+    height: 100px;
+}
+.subject{
+    font-weight: lighter;
+    font-family:'Quicksand' sans-serif ; 
+}
+
+.prof{
+    font-family: lighter ;
+    font-family: 'Quicksand'sans-serif;
+}
+.skillsList{
+    width: 30%;
+}
+.listItem{
+    width: 30%;
+    background-color: rgba(209, 211, 211, 0.591);
+    margin: 16px;
+    border-radius: 16px;
+}
+
